@@ -1,6 +1,6 @@
 from twilio.rest import Client
 
-#twilio secret = jAQwjR7dNsNwoGy4CXm9bwhP1RNsTbXA
+
 
 TWILIO_SID = "ACf0d223f90f6a94b482ecbb7ef871acb4"
 TWILIO_AUTH_TOKEN = "214bb300143bdf1de7afadf3108e4a24"
